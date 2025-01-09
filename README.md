@@ -22,16 +22,11 @@ This project evaluates the hospital's revenue generation, identifies departments
 - **Targeted Discount Programs**: Offer discounts to 12.46% of patients based on spending patterns to boost retention. 💳
 - **Seasonal Resource Planning**: Adjust staffing levels based on patient visit trends to optimize costs. 📆
 
-## Objective:
-To provide data-driven insights for improving hospital efficiency, staffing, and patient satisfaction, ultimately enhancing profitability. 📈
-
 ## Technologies Used: 🛠️
 - Excel
 - SQL
 - Power BI
 - Data Modelling
-
----
 
 ## Detailed Departmental Insights:
 1. **Departmental Revenue Distribution**:
